@@ -231,3 +231,7 @@ http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for
 Splunk Add-on for Kafka
 http://docs.splunk.com/Documentation/AddOns/latest/Kafka/About
 
+
+cloudera-quickstart-vm-5.12.0-0-vmware
+VMware-player-12.1.1-3770994
+https://www.cloudera.com/downloads/quickstart_vms.html
